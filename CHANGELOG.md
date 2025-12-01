@@ -51,9 +51,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
-## Version History
-
-- **1.0.0** - Initial public release (2024-11-27)
 
 ## Links
 
@@ -61,6 +58,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Latest Release](https://github.com/SIPL-Dev/java-odinmarketfeedclient/releases/latest)
 - [Issue Tracker](https://github.com/SIPL-Dev/java-odinmarketfeedclient/issues)
 
----
-
-**Note:** Replace `YOUR_USERNAME` with your actual GitHub username.
